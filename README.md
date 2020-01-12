@@ -14,6 +14,11 @@ Implement algorithms in C# and Python
   The converted array should be in form a < b > c < d > e < f.
   </div>
   </li>
+  <li>
+ <a href="https://github.com/zahra-karami/Algorithms-Implementation/blob/master/PythonAlgorithms/isTriplet.py">Pythagorean Triplet in an array</a> (Python)
+ </br>
+  Given an array of integers, returns true if there is a triplet (a, b, c) that satisfies a2 + b2 = c2.
+  </li>
 </ol>  
 
 </div>
